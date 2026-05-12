@@ -27,3 +27,7 @@ With DevOps → reduced to 1–2 days, sometimes within hours.
 ## Key Insight
 DevOps is not only about delivery speed — it's about **improving the entire delivery
 process** (quality, reliability, monitoring). CI/CD is just one part of it.
+
+---
+
+[](images/vid1.2.jpg)
