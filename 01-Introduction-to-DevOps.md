@@ -30,4 +30,4 @@ process** (quality, reliability, monitoring). CI/CD is just one part of it.
 
 ---
 
-[](images/vid1.2.jpg)
+[](images/vid1.2.jpeg)
