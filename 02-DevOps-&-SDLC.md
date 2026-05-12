@@ -30,3 +30,7 @@ especially deployment, which was previously slow and manual.
 ## Key Insight
 SDLC existed long before DevOps. DevOps didn't replace it —
 it plugged into the last 3 phases and made them faster through automation.
+
+--- 
+
+![](images/Vid2.jpeg)
